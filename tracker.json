@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "source_ip_cidr": "192.168.5.100/32",
+      "domain_keyword": [
+        "zmpt",
+        "hdpt",
+        "btschool",
+        "hdsky",
+        "hdhome",
+        "pterclub",
+        "springsunday",
+        "piggo",
+        "carpt",
+        "ubits",
+        "hdkyl",
+        "m-team",
+        "agsvpt",
+        "keepfrds",
+        "pthome",
+        "qingwa",
+        "haidan",
+        "hdpt",
+        "hdfans",
+        "ourbits",
+        "ilovelemonhd",
+        "totheglory",
+        "nextpt",
+        "connects",
+        "ilolicon",
+        "hhanclub",
+        "audiences",
+        "cinefiles"
+      ]
+    }
+  ]
+}
