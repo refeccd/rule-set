@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ipw.cn",
+        "ipip.net",
+        "oray.com",
+        "3322.net",
+        "yinghualuo.cn"
+      ]
+    }
+  ]
+}
